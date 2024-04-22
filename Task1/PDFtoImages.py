@@ -2,7 +2,7 @@ from pdf2image import convert_from_path
 import os
 from variables import get_path
 path=get_path()
-poppler_path = f"{path}Task1/poppler/poppler-24.02.0/Library/bin"
+poppler_path = f"{path}Task1/poppler-24.02.0/Library/bin"
 def pdftoImages(Source_dir, Save_folder=""):
     os.makedirs(f"{path}/Task1/images", exist_ok=True)  # Create directory if it doesn't exist
     try:
