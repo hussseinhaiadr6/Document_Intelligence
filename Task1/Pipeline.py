@@ -21,7 +21,7 @@ split_pdf(input_filename, output_dir, pages_per_chunk)
 
 # after that we will transform, the CHUNKS into an image
 # create a dircetory here i called Images
-pdftoImages(f"{path}/Task1/PdfChunks", Save_folder="C:/Users/HHR6/PycharmProjects/Task1/Images")
+pdftoImages(f"{path}/Task1/PdfChunks", Save_folder=f"{path}Task1/Images")
 
 
 
