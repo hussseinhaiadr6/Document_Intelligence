@@ -55,3 +55,33 @@ Run the script:
 
 Bash
 python Pipeline.py
+
+
+
+
+Git clone  the repository 
+
+
+extract the popppler zip file 
+
+
+delete the paddle ocr foler and git clone the paddle OCR 
+
+
+cretae a virtual env : virtualenv -p C:/Users/HHR6/AppData/Local/Programs/Python/Python39/python.exe C:/Users/HHR6/Desktop/Document-Intelligence/Document_Intelligence/Hussein
+
+
+
+activate the environment   ./Scripts/activate 
+
+chnage to python 3.9: virtualenv -p C:/Users/HHR6/AppData/Local/Programs/Python/Python39/python.exe C:/Users/HHR6/Desktop/TESTING CODE/husvenv
+
+
+install the requirments 
+pip install setuptools 
+
+
+run the pipeline  from the terminal
+
+
+note that if you have run th epiplie and some of the step were failed , and you havr to run the pipline again just comment the already executed and succeded code 
