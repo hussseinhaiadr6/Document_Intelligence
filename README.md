@@ -11,7 +11,7 @@ This project provides tools for intelligent document processing.
 - Setting Up the Environment
 
 
-##Clone the Repository:
+## Clone the Repository:
 
 ```bash
 git clone https://github.com/hussseinhaiadr6/Document_Intelligence.git
